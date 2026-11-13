@@ -1,0 +1,8 @@
+== byte count
+459 solution.js
+
+== public + edge tests
+test.js: 59 pass, 0 fail
+
+== fuzz vs native eval
+fuzz.js: 17891 compared, 2109 skipped (eval itself rejects), 0 mismatches
